@@ -36,12 +36,12 @@
 ### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
 Первые ссылки - в основном магазин Great Wall, вторые - WAVGAT. Покупая в одном магазине, вы экономите на доставке!
 Мосфеты и резисторы можно купить в любом магазине электронных компонентов (ChipDip итд)
-- Arduino Pro Micro http://ali.ski/kjiB8  http://ali.ski/8dXb9
-- Энкодер дешёвый http://ali.ski/V1rz0  http://ali.ski/HQ1xII
-- Энкодер лучше http://ali.ski/j1W3bc  http://ali.ski/-x1Tx
-- Потенциометры 10k http://ali.ski/17LCP  http://ali.ski/MXXoMI
-- Кнопка-концевик http://ali.ski/_QhMs
-- Труборез http://ali.ski/ZgE3i
+- Arduino Pro Micro https://ali.ski/Laln2  https://ali.ski/ebLk7F
+- Энкодер дешёвый https://ali.ski/wLvov  https://ali.ski/5GUvur
+- Энкодер лучше https://ali.ski/mLMxUM  https://ali.ski/Rorwtk
+- Потенциометры 10k https://ali.ski/bRdHQ  https://ali.ski/88k9Y
+- Кнопка-концевик https://ali.ski/H26aFh
+- Труборез https://ali.ski/bkYv13
 
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
