@@ -32,17 +32,6 @@
 ![SCHEME](https://github.com/AlexGyver/GyverWheel/blob/master/schemes/scheme.jpg)
 
 <a id="chapter-3"></a>
-## Материалы и компоненты
-### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
-Первые ссылки - в основном магазин Great Wall, вторые - WAVGAT. Покупая в одном магазине, вы экономите на доставке!
-Мосфеты и резисторы можно купить в любом магазине электронных компонентов (ChipDip итд)
-- Arduino Pro Micro http://ali.ski/kjiB8  http://ali.ski/8dXb9
-- Энкодер дешёвый http://ali.ski/V1rz0  http://ali.ski/HQ1xII
-- Энкодер лучше http://ali.ski/j1W3bc  http://ali.ski/-x1Tx
-- Потенциометры 10k http://ali.ski/17LCP  http://ali.ski/MXXoMI
-- Кнопка-концевик http://ali.ski/_QhMs
-- Труборез http://ali.ski/ZgE3i
-
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
 * [Недорогие инструменты](http://alexgyver.ru/my_instruments/)
